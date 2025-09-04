@@ -20,7 +20,7 @@ create table user (
 
 insert into user (id, firstname, lastname, email, password) values (1, 'Bride', 'Leckie', 'bleckie0@nsw.gov.au', '4d1e172265d9037a1de3d6d9c11948ba36871b79');
 insert into user (id, firstname, lastname, email, password) values (2, 'Dalston', 'Haysham', 'dhaysham1@rakuten.co.jp', '7ebfed27ddc491277c348bf505028e2f6d3784cf');
-insert into user (id, firstname, lastname, email, password) values (3, 'Admin', '-', 'admin@boutik.com', 'd8cd10b920dcbdb5163ca0185e402357bc27c265');
+insert into user (id, firstname, lastname, email, password) values (3, 'Admin', '-', 'admin@boutik.com', 'b2ffdbeb87e8e6331d350b482b328d309bc5a321');
 insert into user (id, firstname, lastname, email, password) values (4, 'Molly', 'Lourens', 'mlourens3@nih.gov', '548bb9db8603835aabe47476bfa844a50e070809');
 insert into user (id, firstname, lastname, email, password) values (5, 'Jeanine', 'Carpmile', 'jcarpmile4@github.io', '2e1ab01099aab2b78d477cf3469ff94f488aa9bd');
 insert into user (id, firstname, lastname, email, password) values (6, 'Ekaterina', 'Penhearow', 'epenhearow5@dropbox.com', 'ed4cdf5bee9f1fa28ef510f275b9797a8ec55060');
